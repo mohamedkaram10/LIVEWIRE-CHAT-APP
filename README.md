@@ -3,7 +3,7 @@
 
 # Livewire Chat app
 
-Livewire app is a restaurant app for managing orders.
+Livewire Chat app Real-time 
 
 ## Requirements
 
